@@ -6,6 +6,8 @@
 
  - [micrograd](https://github.com/karpathy/micrograd)
 
+ - [micrograd notes](https://github.com/Anri-Lombard/micrograd/tree/main/Lectures)
+
 See also:
 
   - [Building an LLM from scratch](https://bclarkson-code.com/posts/llm-from-scratch-scalar-autograd/post.html) ([Hackernews discussion](https://news.ycombinator.com/item?id=39387850))
